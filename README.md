@@ -2,7 +2,7 @@
 
 # Hello World
 
-> One paragraph statement about the project.
+> 
 
 ![screenshot](./hello_world.jpg)
 
