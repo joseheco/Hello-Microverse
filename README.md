@@ -18,7 +18,7 @@ Welcome First project Microverse
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/joseheco)
+- GitHub: [@joseheco](https://github.com/joseheco)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/joseherreraco)
 
 
